@@ -119,5 +119,3 @@ frame = pd.DataFrame([mark_ws, bl_ws],
 
 frame.T.plot(kind='bar', figsize=(12,8))  #Plotting the dataframe as a bar chart
 plt.legend(fontsize=15)                   #Increasing legend fontsize
-- The Black-Litterman Approach: Original Model and Extensions (Attilio Meucci - 2010)
-"""
